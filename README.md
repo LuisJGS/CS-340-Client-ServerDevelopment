@@ -1,1 +1,1 @@
-# CS-340-Clientr-ServerDevelopment
+# CS-340-Client-ServerDevelopment
